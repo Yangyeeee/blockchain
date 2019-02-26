@@ -1,4 +1,4 @@
-# blockchain
+# blockchain Yang Ye
 '--pwd',type=str, default='b7a875fc1ea228b9061041b7cec4bd3c52ab3ce2', help='hash'
 
 '--mode', default=1, type=int, help='mode 1 one password mode 2 salted mode3 concatenated with space'
