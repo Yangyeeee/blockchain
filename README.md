@@ -29,5 +29,6 @@ python hash.py --pwd=34302959e138917ce9339c0b30ec50e650ce6b40 --mode=3
 
 
 multi thread:
+
 python hash.py --pwd=b7a875fc1ea228b9061041b7cec4bd3c52ab3ce3 --multi=1
 
