@@ -18,9 +18,14 @@ time 0.00013279914856 try 16.0 find letmein
 
 
 
+
+
 python hash.py --pwd=801cdea58224c921c21fd2b183ff28ffa910ce31
 
 time 5.77836203575 try 999968.0 find vjhtrhsvdctcegth
+
+
+
 
 
 
@@ -32,7 +37,12 @@ time 2.96422886848 try 546372.0 find hine harib
 
 
 
+
+
+
 python hash.py --pwd=34302959e138917ce9339c0b30ec50e650ce6b40 --mode=3
+
+
 
 
 
