@@ -9,7 +9,7 @@
 
 
 
-usage:
+**usage:**
 
 python hash.py --pwd=b7a875fc1ea228b9061041b7cec4bd3c52ab3ce3
 
