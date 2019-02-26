@@ -117,6 +117,7 @@ def break_hash_m(pwd):
 if args.multi == 0:
     break_hash(args.pwd,args.mode,args.hint)
 else:
+    done = 0
     break_hash_m(args.pwd)
 
 # pwd='b7a875fc1ea228b9061041b7cec4bd3c52ab3ce3'
