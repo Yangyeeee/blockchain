@@ -57,7 +57,7 @@ def break_hash(pwd,mode=1,hint=''):
                 res = crack(pwd,li)
                 if res == 1:
                     ta = time.time() - t
-                    print 'time', ta, 'try', i, 'find hine', line1
+                    print 'time', ta, 'try', i, 'find', line1
                     return
 
         else:            
@@ -68,7 +68,7 @@ def break_hash(pwd,mode=1,hint=''):
                     res = crack(pwd, li)
                     if res == 1:
                         ta = time.time() - t
-                        print 'time', ta, 'try', i, 'find hine', line1
+                        print 'time', ta, 'try', i, 'find', line1
                         return
     elif mode == 3:
         for line1 in open('password.txt'):
