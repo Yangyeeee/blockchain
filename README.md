@@ -39,7 +39,7 @@ python hash.py --pwd=801cdea58224c921c21fd2b183ff28ffa910ce31
 
 python hash.py --pwd=ece4bb07f2580ed8b39aa52b7f7f918e43033ea1 --mode=2 --hint=f0744d60dd500c92c0d37c16174cc58d3c4bdd8e
 
-*time 2.96422886848 try 546372.0 find hine harib*
+*time 2.96422886848 try 546372.0 find harib*
 
 
 
